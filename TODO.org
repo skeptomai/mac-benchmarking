@@ -1,0 +1,1 @@
+* Create histograms of temps and CPU burst high & low freqs
