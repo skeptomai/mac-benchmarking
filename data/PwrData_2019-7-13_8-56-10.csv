@@ -59,21 +59,3 @@
 "08:56:16:555","830909587644","   5.874","  19.000"," 3500","  29.182"," 193.438","  53.733","  17.115"," 123.579","  34.328"," 81","0","   1.475","   9.082","   2.523","   0.000","   0.002","   0.001","  47.000","  750"
 "08:56:16:627","831090914421","   5.946","  18.000"," 3500","  28.570"," 195.515","  54.310","  16.565"," 124.784","  34.662"," 83","0","   1.477","   9.190","   2.553","   0.000","   0.002","   0.001","  47.000","  750"
 
-"Total Elapsed Time (sec) = 5.946373"
-"Measured RDTSC Frequency (GHz) = 2.494"
-
-"Cumulative Processor Energy_0 (Joules) = 195.515015"
-"Cumulative Processor Energy_0 (mWh) = 54.309726"
-"Average Processor Power_0 (Watt) = 32.879712"
-
-"Cumulative IA Energy_0 (Joules) = 124.783508"
-"Cumulative IA Energy_0 (mWh) = 34.662086"
-"Average IA Power_0 (Watt) = 20.984812"
-
-"Cumulative DRAM Energy_0 (Joules) = 9.189758"
-"Cumulative DRAM Energy_0 (mWh) = 2.552711"
-"Average DRAM Power_0 (Watt) = 1.545439"
-
-"Cumulative GT Energy_0 (Joules) = 0.002014"
-"Cumulative GT Energy_0 (mWh) = 0.000559"
-"Average GT Power_0 (Watt) = 0.000339"
