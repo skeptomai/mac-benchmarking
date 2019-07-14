@@ -1,1 +1,5 @@
 * Create histograms of temps and CPU burst high & low freqs
+  #+begin_src 
+docker run --user root -e GRANT_SUDO=yes -p 8888:8888 -v $(pwd)/data:/home/jovyan/work jupyter/scipy-notebook:latest
+  #+end_src
+Open the browser to http://127.0.0.1:8888 and enter the token shown in the description in the terminal when starting the container.
